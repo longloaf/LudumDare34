@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="222.6034"
-     inkscape:cy="1154.9938"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="1253.2799"
+     inkscape:cy="827.56888"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -19691,7 +19691,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Background.png"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Rect.png"
        y="-289.14664"
        x="151.13918"
        height="20"
@@ -19701,7 +19701,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Finish.png"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Circle.png"
        y="-245.00816"
        x="211.89291"
        height="60"
@@ -19711,7 +19711,7 @@
     <g
        id="g18304"
        transform="matrix(0.33783783,0,0,0.33783783,181.40106,-347.9419)"
-       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Finish.png"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Circle.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        style="fill:#939dac;fill-opacity:1;stroke:none">
