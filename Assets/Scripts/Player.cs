@@ -8,9 +8,12 @@ public class Player : MonoBehaviour {
 
 	Rigidbody2D rb;
 
+	GameManager gm;
+
 	void Awake()
 	{
 		rb = GetComponent<Rigidbody2D> ();
+		gm = GameObject.Find ("GameManager").GetComponent<GameManager> ();
 	}
 
 	Vector2 Vec2(float mag, float ang_deg)
@@ -26,6 +29,15 @@ public class Player : MonoBehaviour {
 		}
 		if (Input.GetKey(KeyCode.LeftArrow)) {
 			rb.AddForce(Vec2(forceMag, 180 - forceAng), ForceMode2D.Force);
+		}
+	}
+
+	void OnTriggerEnter2D(Collider2D other)
+	{
+		if (other.CompareTag("Finish")) {
+			gm.Finish();
+			rb.isKinematic = true;
+			enabled = false;
 		}
 	}
 }
