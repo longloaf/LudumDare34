@@ -34,17 +34,13 @@ public class Player : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D other)
 	{
-		if (other.CompareTag("Finish")) {
-			gm.Finish();
+		if (other.CompareTag ("Finish")) {
+			gm.Finish ();
 			rb.isKinematic = true;
 			enabled = false;
-		}
-	}
-
-	void OnCollisionEnter2D(Collision2D col)
-	{
-		if (col.gameObject.CompareTag("Danger")) {
+		} else if (other.CompareTag ("Danger")) {
 			Destroy(gameObject);
 		}
 	}
+
 }
