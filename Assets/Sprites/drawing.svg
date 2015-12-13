@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="382.90048"
-     inkscape:cy="753.0146"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="539.1802"
+     inkscape:cy="775.66696"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,55 +58,55 @@
        id="rect3788"
        width="110"
        height="110"
-       x="118.12693"
-       y="168.52097"
+       x="2.1269302"
+       y="-121.47903"
        inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Player.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <rect
-       y="170.03619"
-       x="289.85287"
-       height="110"
-       width="110"
-       id="rect3790"
-       style="fill:#999999;fill-opacity:1;stroke:none"
-       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Box.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3769"
-       width="98.988441"
-       height="98.988441"
-       x="295.35864"
-       y="175.54198" />
     <g
-       id="g3789"
-       transform="translate(7.9275122,-93.285405)"
-       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 336.92535,291.17875 0,54.28571"
-         id="path3785"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3787"
-         d="m 309.7825,318.3216 54.28571,0"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       id="g4037"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Block_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="64.036194"
+         x="26.852867"
+         height="98"
+         width="98"
+         id="rect3769"
+         style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(-261.07249,-205.28541)"
+         id="g3789">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3785"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path3787"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Finish.png"
-       y="406.4624"
-       x="84.892914"
+       y="-125.5376"
+       x="155.89291"
        height="110"
        width="110"
        id="rect3842"
        style="fill:#999999;fill-opacity:1;stroke:none" />
     <g
-       id="g3874">
+       id="g3874"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Player.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-116,-290)">
       <path
          transform="matrix(0.60707964,0,0,0.75384615,48.675604,67.201783)"
          d="m 285.71429,207.36218 a 80.714287,65 0 1 1 -161.42858,0 80.714287,65 0 1 1 161.42858,0 z"
@@ -115,7 +115,7 @@
          sodipodi:cy="207.36218"
          sodipodi:cx="205"
          id="path2985"
-         style="fill:#ffdd55;stroke:#000000;stroke-width:2.95641756;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#5fd38d;stroke:#000000;stroke-width:2.95641756;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:type="arc" />
       <g
          id="g3830"
@@ -137,7 +137,8 @@
        id="g3858"
        inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Background.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-54,-507)">
       <rect
          y="379.25034"
          x="345.84628"
@@ -162,7 +163,7 @@
     </g>
     <g
        id="g3880"
-       transform="translate(2.0008662e-6,-1.7520183e-6)"
+       transform="translate(71.000002,-532)"
        inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Finish.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -199,43 +200,625 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\DangerBox.png"
-       style="fill:#999999;fill-opacity:1;stroke:none"
-       id="rect3887"
-       width="110"
-       height="110"
-       x="465.85287"
-       y="168.03619" />
-    <rect
-       y="173.54198"
-       x="471.35864"
-       height="98.988441"
-       width="98.988441"
-       id="rect3889"
-       style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\DangerBox.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <g
-       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="translate(183.92751,-95.285405)"
-       id="g3891"
-       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\DangerBox.png"
+       id="g4043"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Block_2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3893"
-         d="m 336.92535,291.17875 0,54.28571"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 309.7825,318.3216 54.28571,0"
-         id="path3895"
-         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3925"
+         width="198"
+         height="98"
+         x="159.82448"
+         y="62.665089" />
+      <g
+         id="g3927"
+         transform="translate(-128.10088,-206.65651)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path3929"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3931"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(-28.100891,-206.65651)"
+         id="g3933">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3935"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path3937"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g4052"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Block_5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="61.250874"
+         x="400.94788"
+         height="98"
+         width="498"
+         id="rect3941"
+         style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(113.02253,-208.07072)"
+         id="g3943">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3945"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path3947"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g3949"
+         transform="translate(213.02252,-208.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path3951"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3953"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(313.0225,-208.07072)"
+         id="g3955">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3957"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path3959"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g3961"
+         transform="translate(413.0225,-208.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path3963"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3965"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(513.0225,-208.07072)"
+         id="g3967">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3969"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path3971"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g4070"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Block_10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3975"
+         width="998"
+         height="98"
+         x="21.947876"
+         y="200.25087" />
+      <g
+         id="g3977"
+         transform="translate(-265.97747,-69.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path3979"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3981"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(-165.97748,-69.07072)"
+         id="g3983">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3985"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path3987"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g3989"
+         transform="translate(-65.9775,-69.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path3991"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3993"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(34.0225,-69.07072)"
+         id="g3995">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3997"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path3999"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4001"
+         transform="translate(134.0225,-69.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4003"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4005"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(234.0225,-69.07072)"
+         id="g4007">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4009"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4011"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4013"
+         transform="translate(334.02249,-69.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4015"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4017"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(434.02247,-69.07072)"
+         id="g4019">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4021"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4023"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4025"
+         transform="translate(534.02247,-69.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4027"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4029"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(634.02247,-69.07072)"
+         id="g4031">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4033"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4035"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g4103"
+       transform="translate(-4,284)"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\DangerBlock_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4105"
+         width="98"
+         height="98"
+         x="26.852867"
+         y="64.036194" />
+      <g
+         id="g4107"
+         transform="translate(-261.07249,-205.28541)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4109"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4111"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       id="g4113"
+       transform="translate(-4,284)"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\DangerBlock_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="62.665089"
+         x="159.82448"
+         height="98"
+         width="198"
+         id="rect4115"
+         style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(-128.10088,-206.65651)"
+         id="g4117">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4119"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4121"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4123"
+         transform="translate(-28.100891,-206.65651)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4125"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4127"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       id="g4129"
+       transform="translate(-4,284)"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\DangerBlock_5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:1.99999988000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4131"
+         width="498"
+         height="98"
+         x="400.94788"
+         y="61.250874" />
+      <g
+         id="g4133"
+         transform="translate(113.02253,-208.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4135"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4137"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(213.02252,-208.07072)"
+         id="g4139">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4141"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4143"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4145"
+         transform="translate(313.0225,-208.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4147"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4149"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(413.0225,-208.07072)"
+         id="g4151">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4153"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4155"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4157"
+         transform="translate(513.0225,-208.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4159"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4161"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       id="g4163"
+       transform="translate(-4,284)"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\DangerBlock_10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="200.25087"
+         x="21.947876"
+         height="98"
+         width="998"
+         id="rect4165"
+         style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:1.99999975999999990;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(-265.97747,-69.07072)"
+         id="g4167">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4169"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4171"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4173"
+         transform="translate(-165.97748,-69.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4175"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4177"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(-65.9775,-69.07072)"
+         id="g4179">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4181"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4183"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4185"
+         transform="translate(34.0225,-69.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4187"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4189"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(134.0225,-69.07072)"
+         id="g4191">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4193"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4195"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4197"
+         transform="translate(234.0225,-69.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4199"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4201"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(334.02249,-69.07072)"
+         id="g4203">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4205"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4207"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4209"
+         transform="translate(434.02247,-69.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4211"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4213"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(534.02247,-69.07072)"
+         id="g4215">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4217"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path4219"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4221"
+         transform="translate(634.02247,-69.07072)"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 336.92535,291.17875 0,54.28571"
+           id="path4223"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4225"
+           d="m 309.7825,318.3216 54.28571,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
     </g>
   </g>
 </svg>

@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Cam : MonoBehaviour {
 
-	public Rigidbody2D target;
+	Rigidbody2D target;
 	Vector2 targetPos;
 	
 	public float posSmoothTime = 1;
@@ -17,6 +17,7 @@ public class Cam : MonoBehaviour {
 	
 	void Awake()
 	{
+		target = GameObject.Find ("Player").GetComponent<Rigidbody2D> ();
 		cam = GetComponent<Camera> ();
 		targetPos = target.position;
 		size = cam.orthographicSize;
