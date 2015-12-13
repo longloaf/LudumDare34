@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="244.32802"
-     inkscape:cy="666.56664"
+     inkscape:cx="382.90048"
+     inkscape:cy="753.0146"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,9 @@
      inkscape:window-height="1005"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -43,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,42 +98,15 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Exit.png"
-       y="356.4624"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Finish.png"
+       y="406.4624"
        x="84.892914"
-       height="160"
-       width="160"
+       height="110"
+       width="110"
        id="rect3842"
        style="fill:#999999;fill-opacity:1;stroke:none" />
     <g
-       id="g3844"
-       transform="translate(-14.162968,42.978522)"
-       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Exit.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         transform="matrix(2.307284,0,0,1.8087966,-208.42447,-339.729)"
-         d="m 200.01021,405.3595 c 0,22.59462 -14.35928,40.91118 -32.07234,40.91118 -17.71307,0 -32.07235,-18.31656 -32.07235,-40.91118 0,-22.59462 14.35928,-40.91118 32.07235,-40.91118 17.71306,0 32.07234,18.31656 32.07234,40.91118 z"
-         sodipodi:ry="40.911179"
-         sodipodi:rx="32.072342"
-         sodipodi:cy="405.3595"
-         sodipodi:cx="167.93787"
-         id="path3792"
-         style="fill:#ff5555;stroke:#000000;stroke-width:0.97900432;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="arc" />
-      <path
-         sodipodi:type="arc"
-         style="fill:#ffdd55;stroke:none"
-         id="path3794"
-         sodipodi:cx="167.93787"
-         sodipodi:cy="405.3595"
-         sodipodi:rx="32.072342"
-         sodipodi:ry="40.911179"
-         d="m 200.01021,405.3595 c 0,22.59462 -14.35928,40.91118 -32.07234,40.91118 -17.71307,0 -32.07235,-18.31656 -32.07235,-40.91118 0,-22.59462 14.35928,-40.91118 32.07235,-40.91118 17.71306,0 32.07234,18.31656 32.07234,40.91118 z"
-         transform="matrix(1.1104336,0,0,0.87052502,-7.4279614,40.608295)" />
-    </g>
-    <g
-       id="g3836">
+       id="g3874">
       <path
          transform="matrix(0.60707964,0,0,0.75384615,48.675604,67.201783)"
          d="m 285.71429,207.36218 a 80.714287,65 0 1 1 -161.42858,0 80.714287,65 0 1 1 161.42858,0 z"
@@ -157,6 +132,110 @@
            d="m 309.7825,318.3216 54.28571,0"
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       </g>
+    </g>
+    <g
+       id="g3858"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="379.25034"
+         x="345.84628"
+         height="100"
+         width="100"
+         id="rect3848"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+      <g
+         transform="translate(-91.350292,109.9655)"
+         id="g3854">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 487.19657,309.90201 0,18.76565"
+           id="path3850"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3852"
+           d="m 496.5794,319.28484 -18.76565,0"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       id="g3880"
+       transform="translate(2.0008662e-6,-1.7520183e-6)"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Finish.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Finish.png"
+         transform="matrix(0.66666665,0,0,0.66666666,20.522327,199.13982)"
+         id="g3844">
+        <path
+           sodipodi:type="arc"
+           style="fill:#5fd35f;stroke:#000000;stroke-width:1.46850646;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3792"
+           sodipodi:cx="167.93787"
+           sodipodi:cy="405.3595"
+           sodipodi:rx="32.072342"
+           sodipodi:ry="40.911179"
+           d="m 200.01021,405.3595 c 0,22.59462 -14.35928,40.91118 -32.07234,40.91118 -17.71307,0 -32.07235,-18.31656 -32.07235,-40.91118 0,-22.59462 14.35928,-40.91118 32.07235,-40.91118 17.71306,0 32.07234,18.31656 32.07234,40.91118 z"
+           transform="matrix(2.307284,0,0,1.8087966,-208.42447,-339.729)" />
+      </g>
+      <g
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(-197.03244,143.1408)"
+         id="g3868">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3870"
+           d="m 336.92535,291.17875 0,54.28571"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 309.7825,318.3216 54.28571,0"
+           id="path3872"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\DangerBox.png"
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       id="rect3887"
+       width="110"
+       height="110"
+       x="465.85287"
+       y="168.03619" />
+    <rect
+       y="173.54198"
+       x="471.35864"
+       height="98.988441"
+       width="98.988441"
+       id="rect3889"
+       style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\DangerBox.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(183.92751,-95.285405)"
+       id="g3891"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\DangerBox.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3893"
+         d="m 336.92535,291.17875 0,54.28571"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 309.7825,318.3216 54.28571,0"
+         id="path3895"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

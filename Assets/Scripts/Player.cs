@@ -40,4 +40,11 @@ public class Player : MonoBehaviour {
 			enabled = false;
 		}
 	}
+
+	void OnCollisionEnter2D(Collision2D col)
+	{
+		if (col.gameObject.CompareTag("Danger")) {
+			Destroy(gameObject);
+		}
+	}
 }
