@@ -10,6 +10,10 @@ public class Player : MonoBehaviour {
 
 	GameManager gm;
 
+	public GameObject exlp;
+
+	public AudioSource finishSnd;
+
 	void Awake()
 	{
 		rb = GetComponent<Rigidbody2D> ();
@@ -38,7 +42,10 @@ public class Player : MonoBehaviour {
 			gm.Finish ();
 			rb.isKinematic = true;
 			enabled = false;
+			finishSnd.Play();
 		} else if (other.CompareTag ("Danger")) {
+			GameObject e = Instantiate<GameObject>(exlp);
+			e.transform.position = transform.position;
 			Destroy(gameObject);
 		}
 	}

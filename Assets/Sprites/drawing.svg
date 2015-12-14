@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="1253.2799"
-     inkscape:cy="827.56888"
+     inkscape:zoom="1.0606602"
+     inkscape:cx="571.13425"
+     inkscape:cy="1176.7567"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -19726,5 +19726,28 @@
          style="fill:#939dac;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
     </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Expl.png"
+       y="-390.00311"
+       x="451.38406"
+       height="110"
+       width="110"
+       id="rect6571"
+       style="fill:#999999;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path6568"
+       sodipodi:cx="479"
+       sodipodi:cy="-308.63779"
+       sodipodi:rx="45"
+       sodipodi:ry="65"
+       d="m 524,-308.63779 a 45,65 0 1 1 -90,0 45,65 0 1 1 90,0 z"
+       transform="matrix(1.1111111,0,0,0.76923077,-25.838153,-97.58943)"
+       inkscape:export-filename="D:\unity\LudumDare\LD34\Assets\Sprites\Expl.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
